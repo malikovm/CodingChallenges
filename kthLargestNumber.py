@@ -1,0 +1,4 @@
+numList = []
+index = 3
+
+
